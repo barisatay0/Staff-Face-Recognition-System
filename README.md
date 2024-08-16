@@ -22,6 +22,11 @@ https://github.com/barisatay0/Staff-Face-Recognition-System.git
 ```bash
 python -m venv env
 ```
+*or*
+
+```bash
+python3 -m venv env
+```
 
 # Activate the Virtual Environment
 
