@@ -17,7 +17,12 @@ This project allows staff to clock in and out using facial recognition.
 ```bash
 https://github.com/barisatay0/Staff-Face-Recognition-System.git
 ```
- 
+# Create Virtual Environment
+
+```bash
+python -m venv env
+```
+
 # Activate the Virtual Environment
 
 - windows
